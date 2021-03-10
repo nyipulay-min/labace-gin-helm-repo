@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gin:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-10T22:00:01.058091892+06:30"
+    description: A Helm chart for Kubernetes
+    digest: 856e28b8e660b1a7a0586ea2d887a65cd7091a62247382fff774597e95db7281
+    name: gin
+    type: application
+    urls:
+    - gin-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-10T22:00:01.056761129+06:30"
